@@ -1,0 +1,7 @@
+0               //start state
+2 5             //Final states seperated by a blank
+0 a 1           //Transitions statenumber symbol statenumber - seperated by blanks - Press Ctrl+D to stop accepting input
+1 b 2
+0 b 3
+3 a 4
+4 b 5
